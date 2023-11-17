@@ -14,4 +14,4 @@ function MyApp({ Component, pageProps }) {
   )
   
 }
-export defalt MyApp
+export default MyApp
