@@ -1,3 +1,11 @@
+JEAN PEREIRA COELHO
+
+O foco agora são os Frameworks CSS. Com a padronização e vasta extensão de recursos “prontos”, a principal razão de se usar um Framework é otimizar o seu tempo no desenvolvimento do estilo das suas páginas, explorando o reuso de código. O objetivo desta atividade é apresentar algumas ferramentas que podem te auxiliar nesse processo de construção das interfaces.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
