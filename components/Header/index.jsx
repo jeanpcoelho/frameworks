@@ -19,7 +19,7 @@ export default function Header() {
       <Content>
         <ContentTitle>
           <Title>
-            JEAN PEREIRA Coelho
+            JEAN PEREIRA COELHO
           </Title>
           <SubTitle>
             Portfolio 
