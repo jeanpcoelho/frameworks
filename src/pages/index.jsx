@@ -8,7 +8,7 @@ export default function Home() {
      <Content>
       <Infos>
         <Name>JEAN PEREIRA COELHO</Name>
-        <Function>Aluno Instituto Federal do Norte de Minas Gerais</Function>
+        <Function>Instituto Federal do Norte de Minas Gerais</Function>
         <Intro>Estudante do Curso de Sistemas de Informação  
         </Intro>
         <Link href="projects">
